@@ -1,0 +1,2 @@
+二元樹分類 https://ithelp.ithome.com.tw/articles/10197029
+Python 以 SciPy 讀取 WAV 檔案繪製波形圖、時頻譜圖 https://officeguide.cc/python-scipy-read-wav-file-plot-waveform-spectrum-spectrogram-tutorial-examples/
